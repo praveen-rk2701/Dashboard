@@ -8,23 +8,18 @@ function Navbar() {
                 <li className="sidebar-item">
                     <Link to="/Dashboard" className="sidebar-link">Dashboard</Link>
                 </li>
-                <br/>
-                <br/>
+                
                 <li className="sidebar-item">
                     <Link to="/Telegram" className="sidebar-link">Telegram</Link>
                 </li>
-                <br/>
-                <br/>
+                
                 <li className="sidebar-item">
                     <Link to="/Twitter" className="sidebar-link">Twitter</Link>
                 </li>
-                <br/>
-                <br/>
                 <li className="sidebar-item">
                     <Link to="/UPI" className="sidebar-link">UPI</Link>
                 </li>
-                <br/>
-                <br/>
+    
                 <li className="sidebar-item">
                     <Link to="/Youtube" className="sidebar-link">Youtube</Link>
                 </li>

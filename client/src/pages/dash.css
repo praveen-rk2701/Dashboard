@@ -1,21 +1,27 @@
 .search{
-    padding: 76px 120px;
+    padding: 30px 120px;
+    background-color: #004e9b;
+   
 }
 .button{
     padding:5px 10px;
     border-radius: 8px;
     margin: 6px;
 }
-.input{
-    padding:5px 10px;
-    border-radius: 6px;
+ul.sidebar-nav {
+  padding-top: 81px;
+}
+input.input {
+  height: 30px;
+  width: 390px;
 }
 
 .cards-container {
     display: flex;
-    flex-wrap: wrap;
+    /* //flex-wrap: wrap; */
     /* justify-content: space-between; */
     align-items: center;
+    flex-direction: column;
   }
   
   .card {
@@ -46,4 +52,3 @@
     left: 0;
     right: 0;
   }
-  
