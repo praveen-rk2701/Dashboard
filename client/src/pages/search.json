@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Steve Jobs",
+        "author": "Walter Isaacson"
+
+    },
+    {
+        "title": "Zero to One", 
+        "author": "Peter Thiel, Blake Masters"
+    },
+    {
+        "title": "The Pragmatic Programmer",
+        "author": "David Thomas, Andrew Hunt"
+    },
+    {
+        "title": "The Unicorn Project",
+        "author": "Gene Kim"
+    }
+]
