@@ -1,6 +1,8 @@
 .search{
     padding: 30px 120px;
     background-color: #004e9b;
+    /* position:fixed; */
+    
    
 }
 .button{
@@ -17,15 +19,18 @@ input.input {
 }
 
 .cards-container {
-    display: flex;
-    /* //flex-wrap: wrap; */
-    /* justify-content: space-between; */
+    display: grid;
+    grid-template-columns: auto auto auto;
+    border-style: solid;
+    border-color: red;
     align-items: center;
     flex-direction: column;
   }
   
   .card {
-    width: 36%;
+    margin-left:50px;
+    margin-top: 35px;
+    width: 75%;
     height: 242px;
     background-color: #fff;
     box-shadow: 0 11px 53px 0 rgb(0 0 0 / 8%);
@@ -33,8 +38,10 @@ input.input {
     padding: 20px;
     text-align: center;
     margin-bottom: 20px;
-    position: relative;
-    /* padding-right: 0; */
+    position: sticky;
+    flex-direction: column;
+    display: flex;
+    align-content: center;
   }
   
 .card img {
