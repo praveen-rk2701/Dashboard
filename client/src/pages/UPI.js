@@ -1,7 +1,7 @@
 import React from "react";
 function UPI (){
     return (
-        <h1>unknown</h1>
+        <h3>UPI SCAMS.....</h3>
     )
 }
 

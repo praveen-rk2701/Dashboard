@@ -25,12 +25,16 @@
   } */
 
 .sidebar {
-  background-color: #004e9b;
+  background-color: #0088cc;
   height: 100%;
   width: 200px;
   position: fixed;
   left: 0;
   top: 0;
+}
+.Leo{
+  width: 110px;
+  padding: 20px;
 }
 
 .sidebar-nav {
@@ -51,12 +55,12 @@
 }
 
 .sidebar-item:hover {
-  color: #004e9b;
+  color:#0088cc;
   background-color: #fff;
   
 }
 .sidebar-link:hover {
-  color: #004e9b;
+  color: #0088cc;
   background-color: #fff;
   
 }

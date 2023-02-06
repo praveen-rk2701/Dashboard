@@ -1,7 +1,7 @@
 import React from "react";
 function Telegram (){
     return (
-        <h1>hello</h1>
+        <h3>TELE SCAMS.... </h3>
     )
 }
 

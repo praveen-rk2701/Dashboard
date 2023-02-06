@@ -1,17 +1,22 @@
+/* 
+
+/* .cards-container1{
+  position:fixed;
+} */
 .search{
-    padding: 30px 120px;
-    background-color: #004e9b;
+
+    /* padding: 30px 120px; */
+    background-color:#0088cc;  
     /* position:fixed; */
-    
-   
+    padding: 30px;
+    padding-left: 293px;
 }
 .button{
-    padding:5px 10px;
-    border-radius: 8px;
-    margin: 6px;
+   width:70px;
+   height: 36px;
 }
 ul.sidebar-nav {
-  padding-top: 81px;
+  padding-top: 19px;
 }
 input.input {
   height: 30px;
@@ -21,8 +26,8 @@ input.input {
 .cards-container {
     display: grid;
     grid-template-columns: auto auto auto;
-    border-style: solid;
-    border-color: red;
+    /* border-style: solid; */
+    /* border-color: red; */
     align-items: center;
     flex-direction: column;
   }
@@ -31,7 +36,7 @@ input.input {
     margin-left:50px;
     margin-top: 35px;
     width: 75%;
-    height: 242px;
+    height: 270px;
     background-color: #fff;
     box-shadow: 0 11px 53px 0 rgb(0 0 0 / 8%);
     border-radius: 8px;
@@ -44,13 +49,8 @@ input.input {
     align-content: center;
   }
   
-.card img {
-    width: 66%;
-    height: 176px;
-    object-fit: cover;
-    border-top-left-radius: 8px;
-    border-top-right-radius: 8px;
-  }
+
+  
 .card h2 {
     font-size: 20px;
     margin-bottom: 10px;
@@ -59,3 +59,53 @@ input.input {
     left: 0;
     right: 0;
   }
+
+  .cards-container1 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    /* border-style: solid; */
+    /* border-color: red; */
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .card1 {
+    margin-left:50px;
+    margin-top: 35px;
+    width: 71%;
+    height: 242px;
+    background-color: #fff;
+    box-shadow: 0 11px 53px 0 rgb(0 0 0 / 8%);
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    position: sticky;
+    flex-direction: column;
+    display: flex;
+    align-content: center;
+  }
+
+
+  .card img {
+    width: 47%;
+    height: 95px;
+    object-fit: cover;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    padding-top: 45px;
+  }
+
+  img {
+    width: 130px;
+    padding: 20px;
+}
+
+.card1 h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+  right: 0;
+}
