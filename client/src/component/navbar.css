@@ -6,7 +6,8 @@
   left: 0;
   top: 0;
 }
-.Leo{
+
+.Leo {
   width: 110px;
   padding: 20px;
 }
@@ -29,12 +30,13 @@
 }
 
 .sidebar-item:hover {
-  color:#0088cc;
+  color: #0088cc;
   background-color: #fff;
-  
+
 }
+
 .sidebar-link:hover {
   color: #0088cc;
   background-color: #fff;
-  
+
 }

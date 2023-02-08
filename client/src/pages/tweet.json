@@ -2,37 +2,37 @@
     {
         "id": 1,
         "url": " http://twitter.com/praveen",
-        "tweet_link":"http://twitter.com/praveen/status",
+        "tweet_link": "http://twitter.com/praveen/status",
         "user_id": "praveen_r",
         "hastag": "#nothing",
         "retweet_count": "150",
         "share_count": "120",
-        "description":"abcd",
-        "following":"120",
+        "description": "abcd",
+        "following": "120",
         "followers": "135"
     },
     {
         "id": 2,
         "url": " http://twitter.com/nimesh",
-        "tweet_link":"http://twitter.com/nimesh/status",
+        "tweet_link": "http://twitter.com/nimesh/status",
         "user_id": "nimesh_d",
         "hastag": "#nothing",
         "retweet_count": "160",
         "share_count": "100",
-        "description":"efgh",
-        "following":"130",
+        "description": "efgh",
+        "following": "130",
         "followers": "150"
     },
     {
         "id": 3,
         "url": " http://twitter.com/suriya",
-        "tweet_link":"http://twitter.com/suriya/status",
+        "tweet_link": "http://twitter.com/suriya/status",
         "user_id": "suriya_p",
         "hastag": "#nothing",
         "retweet_count": "125",
         "share_count": "140",
-        "description":"ijkl",
-        "following":"150",
+        "description": "ijkl",
+        "following": "150",
         "followers": "130"
     }
 ]
