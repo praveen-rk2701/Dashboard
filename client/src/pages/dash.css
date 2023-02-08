@@ -1,5 +1,6 @@
 /* 
-
+style={{ display: "inline-block", margin: 10 }}
+style={{ padding: 20, backgroundColor: "#eee" }}
 /* .cards-container1{
   position:fixed;
 } */
